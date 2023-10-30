@@ -168,6 +168,7 @@ int main(){
 
     l.deletAnyIndex(3);
     l.Travast();
+    
 
 
     return 0;

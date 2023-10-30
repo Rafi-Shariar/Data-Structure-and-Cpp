@@ -12,7 +12,7 @@ int main(){
 
     for(auto i : mp){
 
-        cout<<"key : "<<i.first<<" "<<"Value : "<<i.second<<end
+        cout<<"key : "<<i.first<<" "<<"Value : "<<i.second<<endl;
     }
 
     

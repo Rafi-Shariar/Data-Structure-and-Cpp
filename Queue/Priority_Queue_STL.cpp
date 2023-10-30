@@ -3,7 +3,7 @@ using namespace std;
 int main(){
 
     priority_queue<int> pq;
-    pq.push(10); ///logn
+    pq.push(0); ///logn
     pq.push(5);
     pq.push(3);
     pq.push(8);
